@@ -19,9 +19,23 @@ hello this is a pargraph
  - third item 
 
  * more items
- * more items 2 
+ * more items 2
+
+ + list
+ + list 2 
 
  1. numbers 1
  2. numbers 2
  3. numbers 3
  4567843456789345678. numbers 4
+
+ ## codeblock
+
+ ```
+    code here 
+
+ ```
+
+ ## formatting
+
+ ![door](door.png)
