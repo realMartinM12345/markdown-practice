@@ -36,6 +36,28 @@ hello this is a pargraph
 
  ```
 
- ## formatting
+ 
 
  ![door](door.png)
+
+ ## formatting
+
+ this text is **bold** 
+ this text is __bold__
+ this text is *italics*
+ this text is _italics_ 
+ this text is ***bold italics***
+ this text is ~~stickout~~
+ this text is <ins >underscore </ins>
+
+ ## blockquote
+
+ > test <br>
+
+ > another 
+ >> nested
+
+## links
+ [text](#codeblock)
+
+
